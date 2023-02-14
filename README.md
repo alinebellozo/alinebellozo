@@ -1,6 +1,7 @@
+## Hello, world! Welcome to my profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="30" height="30" />
+
 ![Header](./github-header-image.png)
 
-## Hello, world! Welcome to my profile <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" alt="Grinning Face with Smiling Eyes" width="30" height="30" />
 
 :computer: Junior Full-Stack Web Developer
 
